@@ -9,8 +9,6 @@
 
 DEMO VIDEO : https://drive.google.com/file/d/1Hz5HVZvZMrNeYeHy_cee4AD5kAg6w5WX/view?usp=drive_link
 
-PROJECT    : <img width="960" height="440" alt="Screenshot 2025-12-16 223348" src="https://github.com/user-attachments/assets/1b3d124b-b938-491a-865b-e3ecf8148c85" />
-
 
 
 
