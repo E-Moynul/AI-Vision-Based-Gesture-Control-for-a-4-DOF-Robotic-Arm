@@ -1,4 +1,4 @@
-# AI-Vision-Based-Hand-Gesture-Controlled-4-DOF-Robot-Arm
+<img width="960" height="440" alt="image" src="https://github.com/user-attachments/assets/c13f5a40-2044-4423-95af-4b8fe7056bc0" /># AI-Vision-Based-Hand-Gesture-Controlled-4-DOF-Robot-Arm
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Yes-brightgreen)](https://github.com/google/mediapipe)
@@ -8,6 +8,9 @@
 
 
 DEMO VIDEO : https://drive.google.com/file/d/1Hz5HVZvZMrNeYeHy_cee4AD5kAg6w5WX/view?usp=drive_link
+
+PROJECT    : <img width="960" height="440" alt="Screenshot 2025-12-16 223348" src="https://github.com/user-attachments/assets/1b3d124b-b938-491a-865b-e3ecf8148c85" />
+
 
 
 
