@@ -6,6 +6,16 @@
 [![Arduino](https://img.shields.io/badge/Arduino-Compatible-blueviolet)](https://www.arduino.cc/)
 
 
+
+
+<br>
+
+demo :
+https://github.com/user-attachments/assets/e34f89ad-0b0b-4d3a-9e66-1445dbe02955
+
+
+
+
 <a href="https://youtu.be/p-fz648nxcE" target="_blank"> Full_Demo_Video </a>
 
 
