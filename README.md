@@ -6,8 +6,7 @@
 [![Arduino](https://img.shields.io/badge/Arduino-Compatible-blueviolet)](https://www.arduino.cc/)
 
 
-
-DEMO VIDEO : https://drive.google.com/file/d/1Hz5HVZvZMrNeYeHy_cee4AD5kAg6w5WX/view?usp=drive_link
+<a href="https://youtu.be/p-fz648nxcE" target="_blank"> Full_Demo_Video </a>
 
 
 
