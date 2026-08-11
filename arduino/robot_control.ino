@@ -88,12 +88,12 @@ void runPickAndPlace(int parityFlag) {
   int higherLiftShoulder = liftShoulder;
   int higherLiftElbow    = liftElbow + extraElbowLift;
 
-  // order: shoulder then elbow (geometry)
+
   smoothMove(shoulder, higherLiftShoulder, 30);
   smoothMove(elbow, higherLiftElbow, 30);
   delay(300);
 
-  // 4) rotate to user (show)
+  // 4) rotate to user
   smoothMove(base, userBase, 50);
   delay(5000);
 
