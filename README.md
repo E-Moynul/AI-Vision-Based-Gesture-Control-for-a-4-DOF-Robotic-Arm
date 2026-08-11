@@ -1,14 +1,12 @@
-<img width="960" height="440" alt="image" src="https://github.com/user-attachments/assets/c13f5a40-2044-4423-95af-4b8fe7056bc0" /># AI-Vision-Based-Hand-Gesture-Controlled-4-DOF-Robot-Arm
+<img width="960" height="440" alt="image" src="https://github.com/user-attachments/assets/c13f5a40-2044-4423-95af-4b8fe7056bc0" />
+
+# AI-Vision-Based-Hand-Gesture-Controlled-4-DOF-Robot-Arm
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Yes-brightgreen)](https://github.com/google/mediapipe)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-orange)](https://opencv.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-Compatible-blueviolet)](https://www.arduino.cc/)
 
-
-
-
-<br>
 
 demo :
 <video src="https://github.com/user-attachments/assets/e34f89ad-0b0b-4d3a-9e66-1445dbe02955" autoplay loop muted playsinline width="100%"></video>
